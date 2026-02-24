@@ -18,6 +18,22 @@
       "not dead",
       "not op_mini all"
     ],
+    {
+  "name": "untethered-events",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "lucide-react": "^0.284.0",
+    "framer-motion": "^10.16.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
+
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
